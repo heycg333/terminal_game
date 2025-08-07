@@ -1218,7 +1218,7 @@ def tomb_e_room(door_puzzle):
 
 
 
-# === RANGERS QUEST ===
+# ===  RANGERS QUEST  ===
 def quest3():
     time.sleep(1)
     print("\nThe rangers live secluded in the forest to the north, self-imposed guardians of the green")
