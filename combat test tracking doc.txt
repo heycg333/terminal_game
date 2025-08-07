@@ -1,0 +1,60 @@
+starter
+hero - 20hp, atk 1, atk min 1, atk max 3, def 1
+-------------------------------------
+Enemy          Wins  Losses  Win %  Avg Rounds  Avg Potions
+------------------------------------------------------------
+Wolf           89    11      89.0   5.2         0.00
+Bandit         63    37      63.0   5.4         0.00
+Durgrin        79    21      79.0   5.9         0.00
+Goblin         63    37      63.0   4.9         0.00
+Orc            65    35      65.0   5.2         0.00
+Spider         85    15      85.0   5.2         0.00
+Forest Bandit  66    34      66.0   4.8         0.00
+Troll          0     100     0.0    5.2         0.00
+Giant Spider   0     100     0.0    4.5         0.00
+Dragon         0     100     0.0    4.0         0.00
+
+1 potion
+Enemy          Wins  Losses  Win %  Avg Rounds  Avg Potions
+------------------------------------------------------------
+Wolf           97    3       97.0   5.4         0.75
+Bandit         94    6       94.0   6.5         0.90
+Durgrin        94    6       94.0   6.5         0.90
+Goblin         91    9       91.0   5.4         0.88
+Orc            90    10      90.0   6.1         0.93
+Spider         98    2       98.0   5.8         0.81
+Forest Bandit  96    4       96.0   5.4         0.87
+Troll          0     100     0.0    8.0         0.99
+Giant Spider   0     100     0.0    7.1         0.99
+Dragon         0     100     0.0    5.1         0.98
+
+2 potion
+Enemy          Wins  Losses  Win %  Avg Rounds  Avg Potions
+------------------------------------------------------------
+Wolf           100   0       100.0  6.1         1.06
+Bandit         99    1       99.0   7.2         1.37
+Durgrin        96    4       96.0   7.0         1.18
+Goblin         97    3       97.0   6.1         1.23
+Orc            95    5       95.0   6.4         1.26
+Spider         100   0       100.0  5.9         1.04
+Forest Bandit  98    2       98.0   6.0         1.26
+Troll          0     100     0.0    10.7        2.00
+Giant Spider   0     100     0.0    9.3         1.93
+Dragon         0     100     0.0    7.5         1.93
+
+longsword
+hero - 20hp, atk 3, atk min 1, atk max 3, def 1
+-------------------------------------
+Enemy          Wins  Losses  Win %  Avg Rounds  Avg Potions
+------------------------------------------------------------
+Wolf           100   0       100.0  3.0         0.00
+Bandit         96    4       96.0   3.7         0.00
+Durgrin        99    1       99.0   3.3         0.00
+Goblin         99    1       99.0   2.9         0.00
+Orc            97    3       97.0   3.3         0.00
+Spider         98    2       98.0   3.1         0.00
+Forest Bandit  99    1       99.0   3.1         0.00
+Troll          9     91      9.0    4.9         0.00
+Giant Spider   2     98      2.0    4.3         0.00
+Dragon         0     100     0.0    3.9         0.00
+
