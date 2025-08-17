@@ -1690,9 +1690,9 @@ def final_boss():
     print(quest_text[quest_completed][3])
 
     if Q1 == 2:
-        "Carts are converted into barricades, flanking the intended battleground"
+        print("Carts are converted into barricades, flanking the intended battleground")
     else:
-        "A shallow pit is dug next to the bait area, lined with sharpened stakes and covered in netting and hay"
+        print("A shallow pit is dug next to the bait area, lined with sharpened stakes and covered in netting and hay")
 
     print("\nThe field is now a battlefield-in-waiting. A makeshift corral holds terrified livestock in a circle of bait")
 
